@@ -1,0 +1,28 @@
+# Maven
+target/
+*.class
+
+# Java
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Build files
+build/
+dist/
